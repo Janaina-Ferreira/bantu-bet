@@ -22,7 +22,7 @@ header {
     text-align: right;
     background-color:  #333;
     margin-bottom: 5px;
-    display: flex;
+    
      
 }
 
@@ -32,7 +32,7 @@ header {
     color: white;
     text-decoration: none;
     font-size: 0.7em;
-    display: block;
+    
     
 }
 
@@ -44,7 +44,7 @@ header {
 
 nav {
     
-    display: flex;
+    display: ;
 }
 
 .menu {
@@ -164,7 +164,7 @@ main{
     position: absolute;
     width: 100%;
     bottom: 22px;
-    padding-bottom: px;
+    
     display: flex;
     justify-content: center;
   }
@@ -297,10 +297,10 @@ footer{
     }
 
     .butao1{
-       font-size: 0.6em;
+       font-size: 0.8em;
     }
     .butao2{
-        font-size: 0.6em;
+        font-size: 0.8em;
      }
 
      .banner{
