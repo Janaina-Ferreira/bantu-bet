@@ -79,9 +79,9 @@ nav {
 }
 
 .butao{
-    font-size: 0.8em;
+    font-size: 0.9em;
    align-items: center;
-   padding: 0px 0px 0px 10%;
+   padding: 0px 0px 0px;
    display: flex;
    flex-wrap: wrap;
 }
