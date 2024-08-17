@@ -79,6 +79,7 @@ nav {
     font-size: 24px;
     cursor: pointer;
 }
+.but{display: flex;}
 
 .butao{
     font-size: 0.9em;
