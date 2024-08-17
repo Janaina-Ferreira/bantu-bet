@@ -85,7 +85,7 @@ nav {
     font-size: 0.9em;
    align-items: center;
    padding: 0px 0px 0px;
-   display: flex;
+   display: box;
    flex-wrap: wrap;
 }
 
